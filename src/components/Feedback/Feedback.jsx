@@ -28,6 +28,7 @@ export default Feedback;
 
 
 
+
 Feedback.propTypes = {
   choiceGoodq: PropTypes.func,
   choiceNeutralq: PropTypes.func,

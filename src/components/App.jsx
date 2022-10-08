@@ -1,4 +1,4 @@
-import {Feedback, ButtonContainer, } from 'components/Feedback/Feedback'
+import {Feedback } from 'components/Feedback/Feedback'
 import Statistics from 'components/Statistics/Statistics'
 
 import Notification from 'components/Notification/notification'

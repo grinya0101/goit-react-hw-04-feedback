@@ -77,30 +77,7 @@ export default function App() {
 
 
 
-// export class App extends Component {
-  
 
-//   /* выбор отзыва гуд ... */
-
-
-
- 
-
-
-// totalFeedback(){
-//   return this.state.good + this.state.neutral + this.state.bad
-//  };
-
-//  feedbackPercentage(){
-//  return Math.round((this.state.good / this.totalFeedback()) * 100)
-//  };
-
-//  render(){
-//   const options = ['good', 'neutral', 'bad'];
- 
-// };
-
-// }
  
 
   
